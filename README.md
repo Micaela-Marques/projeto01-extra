@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="images" src="./images/desktop" width="700px">
+  <img alt="images" src="./images/areadetrabalho.png" width="700px">
 
 </p>
 
@@ -17,7 +17,7 @@
   
   ---
   <h3 align="center">Projeto💻 </h3>
-  <p>Acesse o projeto em <a href="(https://micaela-marques.github.io/projeto01-extra/)/"> site🌐
+  <p>Acesse o projeto em <a href="https://micaela-marques.github.io/projeto01-extra/"> site🌐
   </p>
 
 
