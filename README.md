@@ -17,7 +17,7 @@
   
   ---
   <h3 align="center">Projeto💻 </h3>
-  <p>Acesse o projeto em <a href="https://micaela-marques.github.io/rocketshoes/"> site🌐
+  <p>Acesse o projeto em <a href="(https://micaela-marques.github.io/projeto01-extra/)/"> site🌐
   </p>
 
 
