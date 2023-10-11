@@ -1,0 +1,60 @@
+:root {
+  --text-pink: #ee24ff;
+  --nav-text: #3f3d56;
+  --text-gray: #828282;
+}
+
+body {
+  color: var(--text-gray);
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+#planeta {
+  width: 350px;
+  height: 238px;
+  flex-shrink: 0;
+  margin: 64px 32px;
+}
+h1 {
+  color: var(--nav-text);
+  text-align: center;
+  font-family: Dosis;
+  font-size: 32px;
+  font-weight: bold;
+}
+p {
+  margin-bottom: 80px;
+}
+span {
+  color: var(--text-pink);
+  font-weight: 700;
+}
+.corazul {
+  color: var(--nav-text);
+}
+.corcinza {
+  color: var(--text-gray);
+}
+footer {
+  margin-top: 64px;
+}
+.rodape {
+  position: absolute;
+  margin-top: 40px;
+  bottom: 0px;
+  right: 0px;
+  width: 100%;
+  height: 104px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  gap: 42px;
+  list-style: none;
+  color: var(--nav-text);
+  font-weight: bold;
+}
